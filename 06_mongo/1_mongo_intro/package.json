@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mongoose": "^5.4.11"
+  },
+  "scripts": {
+    "start": "node models.js"
+  }
+}
